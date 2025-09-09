@@ -1,3 +1,9 @@
+
+// class is a blueprint of an object
+// class is a template for creating objects
+// class is a way to create objects
+
+
 class Player {
     constructor(name, age, skill) {
         this.name = name;
